@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OOP Handbook</string>
+    <string name="no_bookmars">Немає закладок</string>
+    <string name="home">Головна</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="settings">Налаштування</string>
+    <string name="copy">Копіювати</string>
+    <string name="copied">Скопійовано</string>
+    <string name="java_handbook">Довідник з Java</string>
+</resources>
